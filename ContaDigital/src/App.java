@@ -13,6 +13,8 @@ public class App {
 		
 		cc.imprimirExtrato();
 		poupanca.imprimirExtrato();
+
+		cc.imprimirInfosComuns();
 	}
 
 }
